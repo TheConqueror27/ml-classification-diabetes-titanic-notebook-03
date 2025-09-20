@@ -93,7 +93,7 @@ Both notebooks include Exploratory Data Analysis (EDA), data preprocessing, feat
 * scikit-learn
 * matplotlib / seaborn (for EDA visuals)
 
-*(You can add a `requirements.txt` file listing these packages.)*
+
 
 
 ## 📜 License
